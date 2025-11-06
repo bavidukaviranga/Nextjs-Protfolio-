@@ -6,7 +6,7 @@ export default function Footer() {
           <div>
             <h3 className="text-primary font-semibold mb-4">About</h3>
             <p className="text-foreground/60 text-sm leading-relaxed">
-              Full-stack developer creating beautiful and functional digital experiences.
+              
             </p>
           </div>
           <div>
@@ -14,7 +14,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a href="#about" className="text-foreground/60 hover:text-primary transition-colors">
-                  About
+                  
                 </a>
               </li>
               <li>
@@ -30,11 +30,11 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="text-primary font-semibold mb-4">Resources</h3>
+            <h3 className="text-primary font-semibold mb-4">Resource</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a href="#" className="text-foreground/60 hover:text-primary transition-colors">
-                  Blog
+                  
                 </a>
               </li>
               <li>
